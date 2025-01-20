@@ -1,0 +1,153 @@
+{
+  "vocations": [
+    {
+      "name": "Knight",
+      "spirit_regen": 0.2
+    },
+    {
+      "name": "Elite Knight",
+      "spirit_regen": 0.4
+    },
+    {
+      "name": "Noble Knight",
+      "spirit_regen": 0.5
+    },
+    {
+      "name": "Paladin",
+      "spirit_regen": 0.33
+    },
+    {
+      "name": "Royal Paladin",
+      "spirit_regen": 0.66
+    },
+    {
+      "name": "Runic Paladin",
+      "spirit_regen": 0.75
+    },
+    {
+      "name": "Sorcerer",
+      "spirit_regen": 0.4
+    },
+    {
+      "name": "Master Sorcerer",
+      "spirit_regen": 1.0
+    },
+    {
+      "name": "Mystical Sorcerer",
+      "spirit_regen": 1.25
+    },
+    {
+      "name": "Druid",
+      "spirit_regen": 0.4
+    },
+    {
+      "name": "Elder Druid",
+      "spirit_regen": 1.0
+    },
+    {
+      "name": "Ancient Druid",
+      "spirit_regen": 1.25
+    }
+  ],
+  "runes": [
+    {
+      "name": "Heavy Magic Missile",
+      "spirit_cost": 70,
+      "multiplier": 5,
+      "blank_rune": "Medium blank rune"
+    },
+    {
+      "name": "Ultimate Healing",
+      "spirit_cost": 90,
+      "multiplier": 1,
+      "blank_rune": "Great blank rune"
+    },
+    {
+      "name": "Freeze Missile",
+      "spirit_cost": 120,
+      "multiplier": 5,
+      "blank_rune": "Great blank rune"
+    },
+    {
+      "name": "Explosion",
+      "spirit_cost": 110,
+      "multiplier": 3,
+      "blank_rune": "Ultimate blank rune"
+    },
+    {
+      "name": "Great Fireball",
+      "spirit_cost": 110,
+      "multiplier": 2,
+      "blank_rune": "Great blank rune"
+    },
+    {
+      "name": "Avalanche",
+      "spirit_cost": 110,
+      "multiplier": 2,
+      "blank_rune": "Ultimate blank rune"
+    },
+    {
+      "name": "Sudden Death",
+      "spirit_cost": 150,
+      "multiplier": 1,
+      "blank_rune": "Ultimate blank rune"
+    },
+    {
+      "name": "Ice Sudden Death",
+      "spirit_cost": 180,
+      "multiplier": 1,
+      "blank_rune": "Ultimate blank rune"
+    },
+    {
+      "name": "Twin Sudden Death",
+      "spirit_cost": 180,
+      "multiplier": 1,
+      "blank_rune": "Ultimate blank rune"
+    }
+  ],
+  "shakes": {
+    "spirit_per_shake": 5400
+  },
+  "rune_table": [
+    {
+      "name": "8 Hour",
+      "spirit_total": 28800
+    },
+    {
+      "name": "24 Hour",
+      "spirit_total": 86400
+    }
+  ],
+  "blank_runes": [
+    {
+      "name": "Small blank rune",
+      "price": 10,
+      "description": "Used for crafting basic spells like Intense Healing and Light Magic Missile."
+    },
+    {
+      "name": "Medium blank rune",
+      "price": 20,
+      "description": "Used for intermediate spells like Heavy Magic Missile and Icestorm."
+    },
+    {
+      "name": "Great blank rune",
+      "price": 35,
+      "description": "Used for advanced spells like Ultimate Healing, Great Fireball, and Freeze Missile."
+    },
+    {
+      "name": "Ultimate blank rune",
+      "price": 55,
+      "description": "Used for the most powerful spells like Explosion, Sudden Death, and Avalanche."
+    }
+  ],
+  "rune_stones": [
+    {
+      "name": "No",
+      "spirit_cost_multiplier": 1
+    },
+    {
+      "name": "Yes",
+      "spirit_cost_multiplier": 0.95
+    }
+  ]
+}
