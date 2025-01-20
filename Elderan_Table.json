@@ -81,7 +81,7 @@
       "blank_rune": "Great blank rune"
     },
     {
-      "name": "Avalanche",
+      "name": "Great Icestorm",
       "spirit_cost": 110,
       "multiplier": 2,
       "blank_rune": "Ultimate blank rune"
@@ -93,13 +93,13 @@
       "blank_rune": "Ultimate blank rune"
     },
     {
-      "name": "Ice Sudden Death",
+      "name": "Winter Storm",
       "spirit_cost": 180,
       "multiplier": 1,
       "blank_rune": "Ultimate blank rune"
     },
     {
-      "name": "Twin Sudden Death",
+      "name": "Twin Killer",
       "spirit_cost": 180,
       "multiplier": 1,
       "blank_rune": "Ultimate blank rune"
