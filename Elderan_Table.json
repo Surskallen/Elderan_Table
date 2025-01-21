@@ -70,7 +70,7 @@
     },
     {
       "name": "Explosion",
-      "spirit_cost": 110,
+      "spirit_cost": 150,
       "multiplier": 3,
       "blank_rune": "Ultimate blank rune"
     },
@@ -88,7 +88,7 @@
     },
     {
       "name": "Sudden Death",
-      "spirit_cost": 150,
+      "spirit_cost": 180,
       "multiplier": 1,
       "blank_rune": "Ultimate blank rune"
     },
@@ -100,7 +100,7 @@
     },
     {
       "name": "Twin Killer",
-      "spirit_cost": 180,
+      "spirit_cost": 280,
       "multiplier": 1,
       "blank_rune": "Ultimate blank rune"
     }
@@ -126,17 +126,17 @@
     },
     {
       "name": "Medium blank rune",
-      "price": 20,
+      "price": 15,
       "description": "Used for intermediate spells like Heavy Magic Missile and Icestorm."
     },
     {
       "name": "Great blank rune",
-      "price": 35,
+      "price": 20,
       "description": "Used for advanced spells like Ultimate Healing, Great Fireball, and Freeze Missile."
     },
     {
       "name": "Ultimate blank rune",
-      "price": 55,
+      "price": 30,
       "description": "Used for the most powerful spells like Explosion, Sudden Death, and Avalanche."
     }
   ],
